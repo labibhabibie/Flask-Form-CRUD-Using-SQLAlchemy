@@ -1,5 +1,5 @@
 # Flask-Form-CRUD-Using-SQLAlchemy
-    Basic Flask Form using SQLAlchemy to Collect Input Data
+ >>   Basic Flask Form using SQLAlchemy to Collect Input Data
 
 To run it,
 
