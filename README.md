@@ -11,11 +11,11 @@ then
 
     $ cd Flask-Form-CRUD-Using-SQLAlchemy
 
-second, in a terminal run command that starts a web server in your browser
+second, in a terminal run command below to install all module
 
     $ pip install -r requirements.txt
 
-third, in your browser open this page:
+third, run command that starts a web server in your browser
 
     $ python main.py
 
